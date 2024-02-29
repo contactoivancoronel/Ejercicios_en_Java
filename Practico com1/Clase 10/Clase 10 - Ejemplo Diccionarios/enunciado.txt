@@ -1,0 +1,8 @@
+Realizar un ABM de una veterinaria
+de Perros con los siguientes datos:
+-NroPaciente
+-Nombre
+-Edad
+-Peso
+
+*ABM: Alta, Baja y Modificacion.

@@ -1,0 +1,7 @@
+Una infantería tiene n cantidad de reclutas. Se desea desarrollar
+ un programa mediante vectores para determinar cuántos infantes están 
+ inscritos en cada especialidad y con cuantas mujeres y cuantos hombres cuenta 
+ la nación en estas especialidades dentro de esta fuerza.
+ 
+ Notas: Cada recluta tendra solo una especialidad
+ 

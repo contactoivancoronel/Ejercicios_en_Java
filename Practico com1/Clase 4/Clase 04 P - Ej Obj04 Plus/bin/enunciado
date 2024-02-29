@@ -1,0 +1,14 @@
+4.    Escriba un programa que en una agenda guarde los datos de 
+ hasta 5 amigos (as) suyos (as) y los muestre por pantalla,
+  utilizando para ello un vector de objetos, el mismo objeto 
+  contendrá (Nombre, Apellido, peso, altura, edad)
+  Una vez finalizada la carga mostrar cada persona
+  con el siguente formato:
+  
+  Apellido y Nombre:
+  Edad: 
+  Peso:
+  Altura:
+  IMC:
+  
+  Notas:m y el peso en KG
